@@ -1,0 +1,1 @@
+# Minecraft-Status-Query-PHP

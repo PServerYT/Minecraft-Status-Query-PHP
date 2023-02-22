@@ -1,4 +1,4 @@
-#Minecraft Server Status Query
+##Minecraft Server Status Query
 
 Minecraft Server Status Query, written in PHP, with online players, motd, favicon and more server related informations without plugins and enable-query.
 

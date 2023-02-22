@@ -1,0 +1,26 @@
+{
+	"name" : "pserveryt/minecraftserverstatus",
+	"type" : "library",
+	"keywords" : [
+		"minecraft",
+		"server",
+		"status"
+	],
+	"license" : "BSD",
+	"repositories" : [{
+			"type" : "vcs",
+			"url" : "https://github.com/PServerYT/Minecraft-Status-Query-PHP.git"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"MinecraftServerStatus\\" : "src/",
+			"MinecraftServerStatus\\Packets\\" : "src/Packets/"
+		}
+	},
+	"authors" : [{
+			"name" : "pserver yt",
+			"email" : "admin@service-pcube.net"
+		}
+	]
+}
